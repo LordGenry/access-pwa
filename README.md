@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 Copyright (c) 2021, Peaq Technology GmbH
 # peaq Access Progressive Web APP
 
@@ -41,3 +43,5 @@ npm run dev
 npm run build:docker
 npm run start:docker
 ```
+
+[![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://vshymanskyy.github.io/StandWithUkraine)
